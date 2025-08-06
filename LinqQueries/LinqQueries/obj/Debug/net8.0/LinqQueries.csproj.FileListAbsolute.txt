@@ -1,0 +1,14 @@
+C:\Users\VSOFT\Documents\StudyMaterial\LinqQueries\LinqQueries\bin\Debug\net8.0\LinqQueries.exe
+C:\Users\VSOFT\Documents\StudyMaterial\LinqQueries\LinqQueries\bin\Debug\net8.0\LinqQueries.deps.json
+C:\Users\VSOFT\Documents\StudyMaterial\LinqQueries\LinqQueries\bin\Debug\net8.0\LinqQueries.runtimeconfig.json
+C:\Users\VSOFT\Documents\StudyMaterial\LinqQueries\LinqQueries\bin\Debug\net8.0\LinqQueries.dll
+C:\Users\VSOFT\Documents\StudyMaterial\LinqQueries\LinqQueries\bin\Debug\net8.0\LinqQueries.pdb
+C:\Users\VSOFT\Documents\StudyMaterial\LinqQueries\LinqQueries\obj\Debug\net8.0\LinqQueries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VSOFT\Documents\StudyMaterial\LinqQueries\LinqQueries\obj\Debug\net8.0\LinqQueries.AssemblyInfoInputs.cache
+C:\Users\VSOFT\Documents\StudyMaterial\LinqQueries\LinqQueries\obj\Debug\net8.0\LinqQueries.AssemblyInfo.cs
+C:\Users\VSOFT\Documents\StudyMaterial\LinqQueries\LinqQueries\obj\Debug\net8.0\LinqQueries.csproj.CoreCompileInputs.cache
+C:\Users\VSOFT\Documents\StudyMaterial\LinqQueries\LinqQueries\obj\Debug\net8.0\LinqQueries.dll
+C:\Users\VSOFT\Documents\StudyMaterial\LinqQueries\LinqQueries\obj\Debug\net8.0\refint\LinqQueries.dll
+C:\Users\VSOFT\Documents\StudyMaterial\LinqQueries\LinqQueries\obj\Debug\net8.0\LinqQueries.pdb
+C:\Users\VSOFT\Documents\StudyMaterial\LinqQueries\LinqQueries\obj\Debug\net8.0\LinqQueries.genruntimeconfig.cache
+C:\Users\VSOFT\Documents\StudyMaterial\LinqQueries\LinqQueries\obj\Debug\net8.0\ref\LinqQueries.dll
