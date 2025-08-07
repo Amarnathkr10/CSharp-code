@@ -52,6 +52,7 @@ namespace LINQDemo
                 Console.Write(item + " ");
             }
 
+            Console.WriteLine("I'm adding new line in for new branch");
             Console.ReadKey();
         }
     }
